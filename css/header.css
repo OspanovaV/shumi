@@ -1,0 +1,15 @@
+.site-header {
+    height: 143px;
+    background-color: var(--color-primary);
+    padding: 20px 75px;
+}
+.site-header .d-flex {
+    justify-content: space-between;
+    align-items: center;
+}
+.language a{
+    text-decoration: none;
+    color: var(--text-color);
+    font-size: 20px;
+    margin: 0 10px;
+}

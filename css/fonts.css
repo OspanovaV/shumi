@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'Georgia';
+    src: url('../fonts/georgia/georgia.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Georgia-Bold';
+    src: url('../fonts/georgia/georgiab.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Georgia-italic';
+    src: url('../fonts/georgia/georgiai.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Georgia-Bold-Italic';
+    src: url('../fonts/georgia/georgiaz.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Gwendolyn-Regular';
+    src: url('../fonts/gwendolyn/Gwendolyn-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gwendolyn-Bold';
+    src: url('../fonts/gwendolyn/Gwendolyn-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

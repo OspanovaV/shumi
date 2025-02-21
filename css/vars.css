@@ -1,0 +1,19 @@
+:root {
+    --color-primary: #FAF6F1;
+    --color-secondary: #FFFFFF;
+    --text-color: #2D243A;
+    --accent-color: #C5AE9A;
+    --white-color: #ffffff;
+    --primary-color: #B9AA9D;
+    --section-color: #f5f4fa;
+    --address-color: rgba(255, 255, 255, 0.6);
+    --border-color: #D5D3D8;
+    --border-color-active: #2D243A;
+    --line-color: #EEE7E1;
+
+    /* variable for fonts */
+    --main-font: Georgia, sans-serif;
+    --accent-font: 'Gwendolyn-Regular', cursive;
+
+}
+
